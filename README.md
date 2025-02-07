@@ -1,4 +1,4 @@
-## I am Graduate Student at New York University 👋
+## Graduate Student at New York University 👋
 
 <!--
 **seongjaeny/seongjaeny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
